@@ -6,7 +6,7 @@
 
 Name:           rust-%{crate}
 Version:        1.0.64
-Release:        1
+Release:        2
 Summary:        JSON serialization file format
 
 # Upstream license specification: MIT OR Apache-2.0
