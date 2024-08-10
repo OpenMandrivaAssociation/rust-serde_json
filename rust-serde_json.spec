@@ -5,8 +5,8 @@
 %global crate serde_json
 
 Name:           rust-%{crate}
-Version:        1.0.64
-Release:        2
+Version:        1.0.122
+Release:        1
 Summary:        JSON serialization file format
 
 # Upstream license specification: MIT OR Apache-2.0
